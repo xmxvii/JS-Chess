@@ -1,6 +1,7 @@
 xmxvii: This is an integration of [chess.js](https://github.com/jhlywa/chess.js) , [chessboard.js](http://chessboardjs.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bc9d442a-44d5-4e36-9e0e-663aac319938/deploy-status)](https://app.netlify.com/sites/condescending-sammet-c11dea/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc9d442a-44d5-4e36-9e0e-663aac319938/deploy-status)](https://app.netlify.com/sites/jschessboard/deploys)
+
 
 ----------------------------------------------------------------------
 
